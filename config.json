@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "moduleNamespace": "stash.lamoda.ru/gotools",
+  "repoBaseUrl": "ssh://git@stash.lamoda.ru:7999/gotools",
+  "sshPath": null
+}
